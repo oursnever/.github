@@ -18,4 +18,4 @@ Everything we make is released, documented and handed over, so it outlives the p
 - Measured, not claimed.
 - Small, sharp instruments over platforms.
 
-<sub>[oursnever.vercel.app](https://oursnever.vercel.app)</sub>
+<sub>[oursnever.com](https://oursnever.com)</sub>
